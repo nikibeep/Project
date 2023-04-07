@@ -766,7 +766,7 @@
                         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                           <Font name="Roboto" size="18" style="1"/>
                         </Property>
-                        <Property name="text" type="java.lang.String" value="Taka Only"/>
+                        <Property name="text" type="java.lang.String" value="Rupees Only"/>
                       </Properties>
                     </Component>
                     <Component class="javax.swing.JButton" name="buyButton">
