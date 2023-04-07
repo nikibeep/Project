@@ -741,7 +741,7 @@ public class MainPage extends javax.swing.JFrame {
         billLabel.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
 
         jLabel4.setFont(new java.awt.Font("Roboto", 1, 18)); // NOI18N
-        jLabel4.setText("Taka Only");
+        jLabel4.setText("Rupees Only");
 
         buyButton.setBackground(new java.awt.Color(0, 77, 64));
         buyButton.setFont(new java.awt.Font("Roboto", 0, 20)); // NOI18N
